@@ -55,3 +55,8 @@ Use EOT (Ctrl-D in miniterm.py) to exec code
 
 >>
 ```
+
+## Helpful Lua C API Links
+
+- https://www.lua.org/pil/contents.html
+- https://github.com/tylerneylon/APIsWithLua
